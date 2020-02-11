@@ -1,0 +1,7 @@
+<suite name="FirstTest Suite" verbose="1" configfailurepolicy="continue">
+    <test name="Workshop tests">
+        <classes>
+            <class name="FirstTest"></class>
+        </classes>
+    </test>
+</suite>
